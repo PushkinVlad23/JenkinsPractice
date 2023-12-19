@@ -16,10 +16,4 @@ class Aggregator {
     double getSum() {
         return sum;
     }
-    /**
-     * Reset the aggregated value
-     */
-    void reset() {
-        sum = 0;
-    }
 }
