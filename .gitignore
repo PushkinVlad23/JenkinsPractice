@@ -1,4 +1,7 @@
 
 *.gradle
 *build
+<<<<<<< HEAD
 *.idea
+=======
+>>>>>>> 1bc650c9c96a5e3467c6d53580fd902ea25dd16c
